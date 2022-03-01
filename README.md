@@ -1,5 +1,11 @@
 # Vue Credit Card App
 
+### BİLGİLENDİRME
+
+
+
+[Projenin linki](https://vue-credit-card-app.netlify.app)
+
 ### Kurulum
 ```
 $ git clone https://github.com/ahmetkaradeniz-dev/vue-credit-card-app.git
@@ -15,11 +21,10 @@ $ npm install
 ```
 $ npm run dev
 ```
-Dizinizdeki 'src' klasörününden geliştirmelerinize devam edebilirsiniz.
+Dizinizdeki 'src' Klasörününden Geliştirmelerinize Devam Edebilirsiniz.
 
-### Canlı Ortamı
+### Yayınlama
 ```
 $ npm run build
 ```
-Dizininizde yeni oluşturulan 'dist' klasörünü canlı ortamınızda kullanabilirsiniz.
-
+Dizininizde Yeni Oluşturulan 'dist' Klasörünü Yayınlama Ortamınızda kullanabilirsiniz.
